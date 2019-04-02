@@ -1,0 +1,10 @@
+.toolBar {
+    -fx-background-color: linear-gradient(to bottom, derive(goldenrod,40%),derive(goldenrod,20%));
+    -fx-font: 14px "Tahoma";
+    -fx-font-weight:bold;
+}
+.hBox {
+    -fx-background-color: linear-gradient(to bottom, derive(goldenrod,40%),derive(goldenrod,20%));
+    -fx-font: 12px "Tahoma";
+
+}
